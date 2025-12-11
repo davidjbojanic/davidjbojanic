@@ -2,7 +2,13 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>(Full Stack) Machine Learning Web App</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/davidjbojanic/PackageDeliveryPathfind.git)
+ 
 - <b>Python</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/davidjbojanic/PackageDeliveryPathfind.git)
+ 
+- <b>Java Spring Web App</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/davidjbojanic/PackageDeliveryPathfind.git)
 
 Here are some ideas to get you started:
