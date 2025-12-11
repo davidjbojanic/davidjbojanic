@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>(Full Stack) Machine Learning Web App</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/davidjbojanic/PackageDeliveryPathfind.git)
+  - [CNN model Image Classifier](https://github.com/davidjbojanic/MarineLifeClassifier)
  
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/davidjbojanic/PackageDeliveryPathfind.git)
